@@ -1,0 +1,16 @@
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\bin\Debug\netcoreapp3.1\Decompailer.exe
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\bin\Debug\netcoreapp3.1\Decompailer.deps.json
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\bin\Debug\netcoreapp3.1\Decompailer.runtimeconfig.json
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\bin\Debug\netcoreapp3.1\Decompailer.runtimeconfig.dev.json
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\bin\Debug\netcoreapp3.1\Decompailer.dll
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\bin\Debug\netcoreapp3.1\Decompailer.pdb
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.csprojAssemblyReference.cache
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.AssemblyInfoInputs.cache
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.AssemblyInfo.cs
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.csproj.CoreCompileInputs.cache
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.dll
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.pdb
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.genruntimeconfig.cache
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\i8nov\source\repos\Decompailer\Decompailer\obj\Debug\netcoreapp3.1\Decompailer.csproj.ResolveComReference.cache
